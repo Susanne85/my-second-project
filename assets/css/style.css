@@ -21,7 +21,8 @@ pre {
     margin: 0.5rem 1rem;
     padding: 1rem;
     color: white;
-    background: var(--textPink);
+    background-color: var(--textPink);
+    background-image: linear-gradient(var(--textPink), Pink);
     border-radius: 20%;
     white-space:pre-wrap;
     justify-content: center;
@@ -52,6 +53,7 @@ h2{
     margin-top: -20px;
     border: solid white;
     border-radius: 25px;
+    padding:10px;
 }
 
 article {
@@ -61,7 +63,7 @@ article {
     border: dashed white;
     width:25vh;
     justify-content: space-evenly;
-    margin: 2%;
+    margin: 2% 1%;
 }
 
 .code-block {
