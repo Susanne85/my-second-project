@@ -5,7 +5,7 @@ and changes necessary to accommodate different screen sizes which the webpage ma
 
 **Link**
 
-The link to the deployed application is : https://susanne85.github.io/flexboxes/
+The link to the deployed application is : https://susanne85.github.io/my-second-project/
 
 The following screen shots show the appearance of the application on different media.
 
